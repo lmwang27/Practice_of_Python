@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923e4818-d49f-4ae6-a785-982542cfee45" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="923e4818-d49f-4ae6-a785-982542cfee45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/anagram_map_reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/course_schedulII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/design_a_map_reduce_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/intger_to_roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/inverted_index_map_reduce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/minimum_spanning_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/narcissistic_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/reverse_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/root_of_equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/shape_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/word_count_map_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netCap/fish_weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/netCap/fish_weight.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +32,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UGYP63VxUktwa9LKsjUUK1cqoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithm" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.queue_crwd">
-    <configuration name="linkedList_crwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.reverse_integer">
+    <configuration name="fish_weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/netCap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_algorithm/linkedList_crwd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/netCap/fish_weight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="memory_crwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inverted_index_map_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_algorithm/memory_crwd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/inverted_index_map_reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="queue_crwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="narcissistic_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_algorithm/queue_crwd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/narcissistic_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stack_crwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reverse_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_algorithm/stack_crwd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/reverse_integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_crwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="word_count_map_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_algorithm/string_crwd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/word_count_map_reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,13 +158,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.queue_crwd" />
-        <item itemvalue="Python.stack_crwd" />
-        <item itemvalue="Python.linkedList_crwd" />
-        <item itemvalue="Python.string_crwd" />
-        <item itemvalue="Python.memory_crwd" />
+        <item itemvalue="Python.reverse_integer" />
+        <item itemvalue="Python.narcissistic_number" />
+        <item itemvalue="Python.inverted_index_map_reduce" />
+        <item itemvalue="Python.word_count_map_reduce" />
+        <item itemvalue="Python.fish_weight" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -159,5 +190,39 @@
       <updated>1574984371696</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1100" height="169" key="GridCell.Tab.0.bottom" timestamp="1575597538736">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="830" height="101" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="970" height="37" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1575567611050" />
+    <state width="1100" height="180" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575582053587" />
+    <state width="1100" height="169" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1575597538736" />
+    <state width="1100" height="169" key="GridCell.Tab.0.center" timestamp="1575597538735">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="830" height="101" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="970" height="37" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1575567611049" />
+    <state width="1100" height="180" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1575582053586" />
+    <state width="1100" height="169" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1575597538735" />
+    <state width="1100" height="169" key="GridCell.Tab.0.left" timestamp="1575597538734">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="830" height="101" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1575406083040" />
+    <state width="970" height="37" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1575567611048" />
+    <state width="1100" height="180" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1575582053586" />
+    <state width="1100" height="169" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1575597538734" />
+    <state width="1100" height="169" key="GridCell.Tab.0.right" timestamp="1575597538735">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="830" height="101" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="970" height="37" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1575567611049" />
+    <state width="1100" height="180" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1575582053587" />
+    <state width="1100" height="169" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1575597538735" />
+    <state x="319" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1575396023069">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="319" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1575396023069" />
   </component>
 </project>
