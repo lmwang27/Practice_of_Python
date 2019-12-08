@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e4818-d49f-4ae6-a785-982542cfee45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/anagram_map_reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/course_schedulII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/design_a_map_reduce_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/intger_to_roman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/inverted_index_map_reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/longest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/minimum_spanning_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/narcissistic_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/reverse_integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/root_of_equation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/shape_factory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/word_count_map_reduce.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netCap/fish_weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/netCap/fish_weight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/parking_lot.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/parking_lot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
