@@ -19,6 +19,7 @@ str_2 = " jiuzhang "
 # lowercase to uppercase
 lower_char = 'z'
 upper_char = chr(ord(lower_char) - ord('a') + ord('A'))
+
 print(upper_char)
 print(lower_char.upper())
 

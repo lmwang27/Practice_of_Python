@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923e4818-d49f-4ae6-a785-982542cfee45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm/lowercase_to_uppercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/lowercase_to_uppercaseII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/prime_factorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/remove_duplicate_numbers_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/remove_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/reverse_word_in_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/string_to_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/valid_palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/parking_lot.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/parking_lot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicAlgorithm/string_crwd.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicAlgorithm/string_crwd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,28 +43,7 @@
       <recent name="$PROJECT_DIR$/algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_integer">
-    <configuration name="fish_weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MiniInsta" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/netCap" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/netCap/fish_weight.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.remove_duplicate_numbers_in_array">
     <configuration name="inverted_index_map_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MiniInsta" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/narcissistic_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_duplicate_numbers_in_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MiniInsta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm/remove_duplicate_numbers_in_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_duplicate_numbers_in_array" />
         <item itemvalue="Python.reverse_integer" />
         <item itemvalue="Python.narcissistic_number" />
         <item itemvalue="Python.inverted_index_map_reduce" />
         <item itemvalue="Python.word_count_map_reduce" />
-        <item itemvalue="Python.fish_weight" />
       </list>
     </recent_temporary>
   </component>
@@ -176,32 +184,51 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1100" height="169" key="GridCell.Tab.0.bottom" timestamp="1575597538736">
-      <screen x="0" y="23" width="1280" height="737" />
+    <state width="1100" height="132" key="GridCell.Tab.0.bottom" timestamp="1575772639606">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="830" height="101" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="1100" height="132" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1575772639606" />
+    <state width="1100" height="96" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1575763448955" />
     <state width="970" height="37" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1575567611050" />
     <state width="1100" height="180" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1575582053587" />
     <state width="1100" height="169" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1575597538736" />
-    <state width="1100" height="169" key="GridCell.Tab.0.center" timestamp="1575597538735">
-      <screen x="0" y="23" width="1280" height="737" />
+    <state width="1100" height="132" key="GridCell.Tab.0.center" timestamp="1575772639605">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="830" height="101" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="1100" height="132" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1575772639605" />
+    <state width="1100" height="96" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1575763448954" />
     <state width="970" height="37" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1575567611049" />
     <state width="1100" height="180" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1575582053586" />
     <state width="1100" height="169" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1575597538735" />
-    <state width="1100" height="169" key="GridCell.Tab.0.left" timestamp="1575597538734">
-      <screen x="0" y="23" width="1280" height="737" />
+    <state width="1100" height="132" key="GridCell.Tab.0.left" timestamp="1575772639605">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="830" height="101" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1575406083040" />
+    <state width="1100" height="132" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1575772639605" />
+    <state width="1100" height="96" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1575763448954" />
     <state width="970" height="37" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1575567611048" />
     <state width="1100" height="180" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1575582053586" />
     <state width="1100" height="169" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1575597538734" />
-    <state width="1100" height="169" key="GridCell.Tab.0.right" timestamp="1575597538735">
-      <screen x="0" y="23" width="1280" height="737" />
+    <state width="1100" height="132" key="GridCell.Tab.0.right" timestamp="1575772639606">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="830" height="101" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1575406083041" />
+    <state width="1100" height="132" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1575772639606" />
+    <state width="1100" height="96" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1575763448954" />
     <state width="970" height="37" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1575567611049" />
     <state width="1100" height="180" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1575582053587" />
     <state width="1100" height="169" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1575597538735" />
